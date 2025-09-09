@@ -70,6 +70,6 @@ Le fichier **Fiduciaire_.bas** contient plusieurs procédures (`Sub`) destinées
 ### Autres fichiers
 Les fichiers **XLSX** fournis dans le repository sont des aperçus visuels des résultats générés par les macros contenues dans le fichier **Fiduciaire_.bas**.
 
-### Prochaine étape
+## Prochaine étape
 
 Voyant les possibilités offertes par VBA, j’ai commencé à imaginer un meilleur programme comptable, à développer une fois que les modules Facture, Salaire et Stock seraient opérationnels.
